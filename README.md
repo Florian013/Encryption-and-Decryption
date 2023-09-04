@@ -1,6 +1,6 @@
 # Password Encryption and Decryption with GUI
 
-A simple Python application with a graphical user interface (GUI) for encrypting and decrypting text messages using a password. The application uses the `base64` module for encoding and decoding messages.
+Python application with a graphical user interface (GUI) for encrypting and decrypting text messages using a password. The application uses the `base64` module for encoding and decoding messages.
 
 ## Overview
 
